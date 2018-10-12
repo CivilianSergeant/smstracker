@@ -1,0 +1,1 @@
+[23-Jul-2014 02:20:18 America/Chicago] PHP Fatal error:  Call to protected method MessageQueue::getUnChangedMessages() from context 'Test' in /home/carbon51/public_html/smstracker/application/controllers/test.php on line 37
